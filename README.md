@@ -1,24 +1,8 @@
-# README
+# Ball Roller 2: The reckoning backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The backend for [Ball Roller 2](https://github.com/Asilver-jpg/Ball-Game)
 
-Things you may want to cover:
+###ERD
 
-* Ruby version
+####MVP
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
